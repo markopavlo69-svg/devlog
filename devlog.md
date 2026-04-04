@@ -19,3 +19,11 @@ what did i do today?
 i practised css grid i made 3 exercises on it and one portfolio page i used grid on the body i used flexbox for the sections and nested grid for responsive project cards with repeat and minmax.
 what is planned next?
 project 1 portfolio
+
+session 7
+4.4.2026
+what did i do today?
+i created a wireframe for my webpage for mobile and desktop
+i build html structure for main page and sub pages for my portfolio project
+what is planned next?
+basic css reset fonts vars colors
