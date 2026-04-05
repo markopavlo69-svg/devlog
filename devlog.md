@@ -27,3 +27,10 @@ i created a wireframe for my webpage for mobile and desktop
 i build html structure for main page and sub pages for my portfolio project
 what is planned next?
 basic css reset fonts vars colors
+
+Session 8-9
+5.4.2026
+what did i do today?
+basic css done started styling the main page.
+what is next?
+make a hamburger menu, animate project cards
