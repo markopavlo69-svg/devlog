@@ -61,3 +61,10 @@ what did i do today?
 i documented information about git github dev tools vs code extensions and shortcuts
 what is next?
 accecibility basics
+
+session 14
+10.4.2026
+what did i do today?
+accesibility basics and made changes to project 1 to reach a 100% ally score
+what is next?
+js basics
