@@ -68,3 +68,10 @@ what did i do today?
 accesibility basics and made changes to project 1 to reach a 100% ally score
 what is next?
 js basics
+
+session 15
+11.4.2026
+what did i do today?
+started js basics docu
+what is next?
+continue basic js doku
