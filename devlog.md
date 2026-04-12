@@ -75,3 +75,10 @@ what did i do today?
 started js basics docu
 what is next?
 continue basic js doku
+
+session 16
+12.4.2026
+what did i do today?
+i did some exercises on javascript so i have practise before i do all the theory
+what do i do next\_?
+continue exercises js
