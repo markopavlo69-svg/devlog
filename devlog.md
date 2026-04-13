@@ -80,5 +80,12 @@ session 16
 12.4.2026
 what did i do today?
 i did some exercises on javascript so i have practise before i do all the theory
-what do i do next\_?
+what do i do next ?
 continue exercises js
+
+session 17
+13.4.2026
+what did i do today?
+i finished exercises in js and decided i will move from writing docu doing practise work and docs only after
+what is up next?
+another 6 exercises
