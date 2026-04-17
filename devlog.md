@@ -104,3 +104,10 @@ i practised loops still dont get it
 what is next
 practise loops until i get it
 note cant focus for some reason
+
+session 20
+17.4.2026
+what did i do
+more loop practise
+what do i do next?
+more loop practise
