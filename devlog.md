@@ -56,8 +56,7 @@ what is next
 phase 2 js
 
 session 13
-10.4.2026
-what did i do today?
+10.4.2026y?
 i documented information about git github dev tools vs code extensions and shortcuts
 what is next?
 accecibility basics
@@ -118,3 +117,11 @@ what did i do ?
 i practised for in and for of loops
 what is up next?
 functions practise
+
+session 22
+19.4.2026
+what did i do today?
+practised functions
+what do i do next ?
+practise scope
+feeling: good
