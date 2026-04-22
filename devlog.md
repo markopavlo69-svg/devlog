@@ -142,3 +142,16 @@ completed e12 fully (tasks 1-4)
 started e13 optional chaining - task 1 done
 what do i do next?
 continue e13 (tasks 2-4)
+
+session 25
+22.4.2026
+what did i do today?
+completed e13 task 2 (optional chaining on methods)
+decided to restructure the roadmap - cut academic exercises, focus on getting to DOM and projects fast
+roadmap updated: scope and optional chaining ticked, hoisting and prototype chain marked as "read when needed"
+e14 rewritten as Modules exercise, e15 as short Classes exercise
+new exercises added: e16 e17 e18 (DOM) and project-game (dungeon crawler)
+completed e14 – Modules (import/export, named vs default, multi-file shopping cart)
+note: task 3 was hard - needed step-by-step guidance. reduce syntax forgotten. normal at this stage.
+what do i do next?
+e15 – Classes (short, 2 tasks)
