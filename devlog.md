@@ -181,3 +181,13 @@ export and import functions and test a run in game.js
 Session Duration 1 hour 10 minutes
 Feeling: solid i can use classes with different skills like if else etc my logic is sometimes not correct i forget many things when i test my code i forgot important things like what if player takes two times damage in a row.
 the first code block i wrote there was a lot of things wrong with it i didnt notice it on myself only with claude code
+
+session 28
+26.4.2026
+what did i do today?
+i worked on the dungeon crawler game i wrote the enemies.js file it works enemies can be created with a random number
+i used classes arrays with objects import export random.math arrow functions destructuring.
+what do i do next ?
+i will write the first round in game.js first i need to export from player and enemy.js
+session duration 1 hour
+feeling: the first part of the session was easy i just had to repeat what i already did in player.js only with enemies creating the function getting a random number accessing what i need was extremly difficult and frustrating i forgot many things.
