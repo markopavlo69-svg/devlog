@@ -191,3 +191,17 @@ what do i do next ?
 i will write the first round in game.js first i need to export from player and enemy.js
 session duration 1 hour
 feeling: the first part of the session was easy i just had to repeat what i already did in player.js only with enemies creating the function getting a random number accessing what i need was extremly difficult and frustrating i forgot many things.
+
+session 29
+27.4.2026
+what did i do today?
+first time using readline for user input in Node.js
+wrote the ask() function using Promise and rl.question
+built the first round() loop in game.js with async/await
+debugged: while condition (|| vs &&), choice as string not number, enemy HP not decreasing, rl.close() to exit
+the round loop works: player can check status, attack, heal — enemy takes damage and dies
+what do i do next?
+finish the game: add win/lose messages after the loop, then think about multiple floors/rooms
+session duration: 1 hour
+feeling: async is hard to wrap your head around but writing it and debugging it hands-on made it click more than reading would have
+i have an issue keeping things in my head need to learn to write pseudo code
