@@ -675,3 +675,12 @@ continue gms
 what do i do next continue gms
 feeling : bad got stuck on the same wall as last time
 session duration 20mins
+
+session 78
+04.07.2026
+what did i do today?
+came back after a week break. finished wiring the gameform component, the add button now works through the callback prop. the step that made me shut down twice is done
+what do i do next?
+delete the old inline add form from App.tsx (lines 44-67, from the add game label to the p with {title}), then remove the leftover title state
+feeling: sick of coding even after the pause, but showed up anyway and it worked
+session duration 10 mins
