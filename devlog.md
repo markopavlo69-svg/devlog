@@ -684,3 +684,18 @@ what do i do next?
 delete the old inline add form from App.tsx (lines 44-67, from the add game label to the p with {title}), then remove the leftover title state
 feeling: sick of coding even after the pause, but showed up anyway and it worked
 session duration 10 mins
+
+session 79
+19.7.2026
+what did i do today?
+
+- made project overview for finance tracker
+- styled the app.tsx
+- created and styled income-form.tsx
+- added component to app.tsx
+
+what do i do next?
+
+- create array in app.tsx
+- fill array with data
+- display array to the screen
