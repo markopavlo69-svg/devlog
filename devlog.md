@@ -699,3 +699,7 @@ what do i do next?
 - create array in app.tsx
 - fill array with data
 - display array to the screen
+
+session duration 1h 21 mins
+
+feeling annoyed with css
