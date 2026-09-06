@@ -1,6 +1,7 @@
 TEMPLATE — copy this block for a new entry, paste it right below this line
 
 session N
+Project : 
 DD.MM.YYYY
 what did i do today?
 -
@@ -13,7 +14,20 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 82
+Project Expense Tracker
+06.09.2026
+what did i do today?
+- made it so the submit button renderns logs in the dome
+- added minor error handling
+what do i do next?
+- write balance logic
+feeling: neutral slighly annoyed by claude
+session duration: 1h 30 mins
+
+
 session 81
+Project: Expense Tracker
 06.09.2026
 what did i do today?
 - I did the HTML Structure
@@ -27,6 +41,7 @@ session duration: 1h 7 mins
 
 
 session 80
+Project Expense Tracker
 05.09.2026
 what did i do today?
 - wrote plan for expense Tracker
