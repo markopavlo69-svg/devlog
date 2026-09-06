@@ -13,6 +13,19 @@ session duration:
 newest entries first — oldest at the bottom
 ===============================================================
 
+session 81
+06.09.2026
+what did i do today?
+- I did the HTML Structure
+- Set Root vars
+- basic styling
+- grid layout
+what do i do next?
+- when user clicks on submit something gets rendered
+feeling: lack of focus rely on claude for CSS Stuff especially Grid
+session duration: 1h 7 mins
+
+
 session 80
 05.09.2026
 what did i do today?
